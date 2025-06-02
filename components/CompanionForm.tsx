@@ -79,6 +79,7 @@ const CompanionForm = () => {
                         </FormItem>
                     )}
                 />
+
                 <FormField
                     control={form.control}
                     name="subject"
@@ -111,6 +112,7 @@ const CompanionForm = () => {
                         </FormItem>
                     )}
                 />
+                
                 <FormField
                     control={form.control}
                     name="topic"
@@ -160,6 +162,7 @@ const CompanionForm = () => {
                         </FormItem>
                     )}
                 />
+
                 <FormField
                     control={form.control}
                     name="style"
